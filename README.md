@@ -2,7 +2,7 @@ Please find the project [documents](https://drive.google.com/drive/folders/1cT59
 
 Or Visti the public [Tableau](https://public.tableau.com/app/profile/vikash.kumar.gupta1872/viz/CovidDashboard_17245016721330/Dashboard1)
 
-# COVID Trend Visualization Dashboard
+# COVID Trend Visualization Dashboard - Tableau
 
 ## Project Overview
 
